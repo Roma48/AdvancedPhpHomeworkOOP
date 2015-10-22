@@ -1,0 +1,19 @@
+{
+    "name": "roma/homework_oop",
+    "require": {
+        "php": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "BaseClass\\": "src/Base/",
+            "Phone\\": "src/Phone/",
+            "Book\\": "src/Book/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roma48",
+            "email": "myzfann@mail.ru"
+        }
+    ]
+}
